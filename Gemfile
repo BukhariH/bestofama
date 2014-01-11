@@ -27,6 +27,7 @@ gem 'airbrake'
 gem 'httparty'
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'iron_worker_ng'
+gem 'fast_blank'
 
 group :heroku do
   gem 'rails_12factor'
